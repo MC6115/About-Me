@@ -2,20 +2,14 @@
 
 ## About-me
 
-Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School.
+Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. Pequeño site con información sobre mi y una pequeña prueba
 
 ### Autor: Matias Ricardo Carrillo Sanchez
 
-### Enlaces y Recursos
-
-* [envío del PR](http://xyz.com)
-* Cualquier enlace que hayas usado como referencia
-
 ### Puntuación de Accesibilidad de Lighthouse
 
-* Promociona una captura de pantalla de tu puntuación después de ejecutar un informe de Accesibilidad de Lighthouse.
+![LightHouse](img/Lighthouse.png)
 
 ### Reflexiones y Comentarios
 
-* Considera incluir las respuestas a las preguntas a tu registro de aprendizaje y de tus envíos previos
-* Este también es un buen lugar para reflexionar sobre las herramientas y recursos que utilizaste y aprendiste
+- Mejorar uso de CSS - Poco creativo
