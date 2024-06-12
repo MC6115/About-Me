@@ -8,7 +8,11 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 ### Puntuación de Accesibilidad de Lighthouse
 
+- Lighthouse iteración 1
+
 ![LightHouse](img/Lighthouse.png)
+
+- lighthouse iteración 2
 
 ### Reflexiones y Comentarios
 
