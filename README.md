@@ -16,8 +16,8 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 ### Driver y navigator
 - Secion 1
-    - Driver-Orlando: https://github.com/MC6115/About-Me/pull/1
-    - navigator-Matias-Yo: https://github.com/MC6115/About-Me
+    - Fui Navigator en: https://github.com/MC6115/About-Me/pull/1
+    - Fui Driver en: https://github.com/orlando-stv/aboutMe/pull/1
 
 ### Reflexiones y Comentarios
 
