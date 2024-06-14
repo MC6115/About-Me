@@ -14,6 +14,11 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 - lighthouse iteración 2
 
+### Driver y navigator
+- Secion 1
+    - Driver-Orlando: https://github.com/MC6115/About-Me/pull/1
+    - navigator-Matias-Yo: https://github.com/MC6115/About-Me
+
 ### Reflexiones y Comentarios
 
 - Mejorar uso de CSS - Poco creativo
