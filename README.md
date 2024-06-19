@@ -10,14 +10,20 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 - Lighthouse iteración 1
 
-![LightHouse](img/Lighthouse.png)
+[LightHouse](img/Lighthouse.png)
 
 - lighthouse iteración 2
 
+    No hubo cambios
+
+- lighthouse iteración 3
+
+[lighthouse2](img/Screenshot2.png)
+
 ### Driver y navigator
-- Secion 1
-    - Fui Navigator en: https://github.com/MC6115/About-Me/pull/1
-    - Fui Driver en: https://github.com/orlando-stv/aboutMe/pull/1
+
+- Fui Navigator en: https://github.com/MC6115/About-Me/pull/1
+- Fui Driver en: https://github.com/orlando-stv/aboutMe/pull/1
 
 ### Reflexiones y Comentarios
 
