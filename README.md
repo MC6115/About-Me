@@ -10,7 +10,7 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 - Lighthouse iteración 1
 
-[LightHouse](img/Lighthouse.png)
+![LightHouse](img/Lighthouse.png)
 
 - lighthouse iteración 2
 
@@ -18,7 +18,7 @@ Pagina acerca de mi, Projecto "About-Me" del curso Code 201, Enter tech School. 
 
 - lighthouse iteración 3
 
-[lighthouse2](img/Screenshot2.png)
+![lighthouse2](img/Screenshot2.png)
 
 ### Driver y navigator
 
